@@ -1,0 +1,3 @@
+/home/sung/workspace/MR_test/CMakeFiles/rebuild_cache.dir
+/home/sung/workspace/MR_test/CMakeFiles/edit_cache.dir
+/home/sung/workspace/MR_test/CMakeFiles/main.dir

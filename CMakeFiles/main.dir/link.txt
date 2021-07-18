@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/include/modern_robotics.cpp.o CMakeFiles/main.dir/KDL/PoEKinematics.cpp.o CMakeFiles/main.dir/KDL/LieDynamics.cpp.o CMakeFiles/main.dir/KDL/LieOperator.cpp.o  -o main 
