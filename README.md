@@ -6,3 +6,13 @@ cmake .
 make -j16
 ./main
 ```
+## Sublime Text Build System
+```bash
+
+{
+    "cmd": ["cd /home/sung/workspace/MR_test && ls && cmake . && make -j16 && ./main"],
+    "selector": "source.c++",
+    "shell": true,
+}
+
+```
